@@ -1,0 +1,20 @@
+[
+    {
+        "structure_name": "Department_1",
+        "structure_type": "lvl_01_org_name",
+        "structure_code": 10283181,
+        "embeddings": ["..."]
+    },
+    {
+        "structure_name": "Department_2",
+        "structure_type": "lvl_01_org_name",
+        "structure_code": 10319607,
+        "embeddings": ["..."]
+    },
+    {
+        "structure_name": "...",
+        "structure_type": "...",
+        "structure_code": 10000000,
+        "embeddings": ["..."]
+    }
+]
