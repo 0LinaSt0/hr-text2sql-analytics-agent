@@ -2,7 +2,7 @@
 
 HR Enterprise Agentic Reporting via Text-to-SQL
 
-An AI-powered agent for querying HR employee data in natural Russian language. Built with **LangGraph**, **GigaChat**, and **ClickHouse**, this system translates user questions into SQL queries and retrieves relevant information from an employee database.
+An AI-powered agent for querying HR employee data. Built with **LangGraph**, **GigaChat**, and **ClickHouse**, this system translates user questions into SQL queries and retrieves relevant information from an employee database.
 
 ## Overview
 
